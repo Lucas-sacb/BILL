@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006674204810",
+    "firebase_url": "https://bill-f22d3.firebaseio.com",
+    "project_id": "bill-f22d3",
+    "storage_bucket": "bill-f22d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006674204810:android:be84bf5e8357c17a5db573",
+        "android_client_info": {
+          "package_name": "com.bill.bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006674204810-89jcokkdt5vp6chhn4gbrbeslco9qvsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bill.bill",
+            "certificate_hash": "100d8cad041c7eeec5bb488c0aad7d0b9e78c197"
+          }
+        },
+        {
+          "client_id": "1006674204810-d4tgrrr5a82sng5jr3j9nk3mdbj1ffn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2RHRG8oPqNVyqT-9mKOVaQvFhOxBcGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006674204810-d4tgrrr5a82sng5jr3j9nk3mdbj1ffn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
